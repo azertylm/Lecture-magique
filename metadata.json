@@ -1,0 +1,6 @@
+{
+  "name": "Lecture Magique",
+  "description": "Application ludo-éducative d'apprentissage de la lecture pour enfants avec Lumo la chouette : méthode syllabique, synthèse vocale, jeux phonétiques et histoires interactives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
